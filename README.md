@@ -1,5 +1,6 @@
 # FFMP
-code for the final assignment of Family Financial Management Practices
+Here is the code for the final assignment of Family Financial Management Practices.
+
 I suggest downloading the df (dataframe) from the CSMAR database for this project in CSV format, which should include the following information:
 
 Stkcd [Stock Code]
